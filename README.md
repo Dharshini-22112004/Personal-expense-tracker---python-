@@ -45,7 +45,7 @@ Installation
 
 
 
-git clone https://github.com/Dharshini-A/expense-tracker.git
+git clone https://github.com/Dharshini-22112004/Personal-expense-tracker---python-
 
 2. Navigate to the project directory:
 
